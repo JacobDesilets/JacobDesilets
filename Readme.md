@@ -11,12 +11,12 @@ Hello! I'm Jacob Desilets. I'm currently a senior at Clarkson University studyin
 
 <p align="center">
     <a href="https://github.com/Person1080p">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Person1080p">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobDesilets">
     </a>
     <!-- DOCS: https://github.com/anuraghazra/github-readme-stats -->
 </p>
 <p align="center">
-    <a href="https://github.com/Person1080p"><img src="https://github-readme-stats.vercel.app/api?username=Person1080p&theme=nord&show_icons=true"></a>
+    <a href="https://github.com/Person1080p"><img src="https://github-readme-stats.vercel.app/api?username=JacobDesilets&theme=nord&show_icons=true"></a>
     <!-- DOCS: https://github.com/anuraghazra/github-readme-stats -->
 </p>
 
