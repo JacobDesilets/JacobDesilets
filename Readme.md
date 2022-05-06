@@ -5,12 +5,12 @@ Hello! I'm Jacob Desilets. I'm currently a senior at Clarkson University studyin
 
 ## 📧 Contact me
 
-[![gmail_badge]](mailto:desilejf@clarkson.edu) ![GitHub followers](https://img.shields.io/github/followers/Person1080p?style=social)
+[![gmail_badge]](mailto:desilejf@clarkson.edu) ![GitHub followers](https://img.shields.io/github/followers/JacobDesilets?style=social)
 
 ### GitHub Stats
 
 <p align="center">
-    <a href="https://github.com/Person1080p">
+    <a href="https://github.com/JacobDesilets">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobDesilets">
     </a>
     <!-- DOCS: https://github.com/anuraghazra/github-readme-stats -->
