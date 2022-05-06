@@ -16,13 +16,13 @@ Hello! I'm Jacob Desilets. I'm currently a senior at Clarkson University studyin
     <!-- DOCS: https://github.com/anuraghazra/github-readme-stats -->
 </p>
 <p align="center">
-    <a href="https://github.com/Person1080p"><img src="https://github-readme-stats.vercel.app/api?username=JacobDesilets&theme=nord&show_icons=true"></a>
+    <a href="https://github.com/JacobDesilets"><img src="https://github-readme-stats.vercel.app/api?username=JacobDesilets&theme=nord&show_icons=true"></a>
     <!-- DOCS: https://github.com/anuraghazra/github-readme-stats -->
 </p>
 
 
 
-[gmail_badge]: https://img.shields.io/badge/-cg462%40njit.edu-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cg462@njit.edu
+[gmail_badge]: https://img.shields.io/badge/-desilejf@clarkson.edu-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cg462@njit.edu
 <!--
 - 👋 Hi, I’m @JacobDesilets
 - 👀 I’m interested in ...
